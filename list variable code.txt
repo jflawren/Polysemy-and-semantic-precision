@@ -1,1 +1,4 @@
 list word 
+
+regress sfi d 
+
